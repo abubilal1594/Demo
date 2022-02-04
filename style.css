@@ -1,0 +1,17 @@
+html{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+h1{margin-left: 3rem;font-weight: 400;}
+a{list-style: none; margin-left: 2rem; text-decoration: none;}
+.navbar>nav{display: flex;justify-content: space-between;}
+ul{display: flex;}
+.welcomeimage>img{height: 800px;width: 1330px;
+height: 100vh;
+width: 95vw;
+margin-left: 2vw;
+margin-right: 2vw;}
+.skills{display: flex;}
+.skills>div>p{padding: 1rem;}
+.skills>div{text-align: center;margin-top: 1rem;}
+.footer{background-color: black;color: white;text-align: center;}
+.footer>p{font-size: 25px;}
+a:link,a:visited{color: black;}
+a:hover{color: lightpink;}
